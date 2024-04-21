@@ -36,5 +36,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
-/src/main/docker/rabbitmq/mnesia/
-/src/main/docker/rabbitmq/.erlang.cookie
+/docker/rabbitmq/mnesia/
+/docker/rabbitmq/.erlang.cookie

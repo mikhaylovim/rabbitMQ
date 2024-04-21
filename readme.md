@@ -1,6 +1,6 @@
 # RUN
 ```shell
-cd src/main/docker
+cd docker
 docker compose up -d
 ```
 
